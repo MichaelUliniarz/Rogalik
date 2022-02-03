@@ -13,24 +13,19 @@ UCLASS()
 class ROGALIK_API ARogPlayerController : public APlayerController
 {
 	GENERATED_BODY()
-public:
-	ARogPlayerController();
 	
 protected:
-	virtual void Tick(float DeltaSeconds) override;
+	virtual void BeginPlay() override;
 	virtual void SetupInputComponent() override;
-	
-#pragma region Movement
-	// Calculate new destination and call MoveToLocation
-	void SetNewDestination();	
-	// If player click on map, set this location as destination
-	void OnSetDestinationPressed();
-	// If player release mouse click stop calculating destination
-	void OnSetDestinationReleased();
-	// Move player to location
-	void MoveToLocation(FVector Location);
-	
-	// Is player moving
-	bool bMoving;
-#pragma endregion Movement
+
+	void MoveForward(float Value);
+	void MoveRight(float Value);
+
+	UPROPERTY()
+	ACharacter* PlayerCharacter;
+
+	FVector RightVector;
+	FVector ForwardVector;
 };
+	
+
