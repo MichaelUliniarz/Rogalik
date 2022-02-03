@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderLoggingExtension-0004-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderLoggingExtension\Module.RiderLoggingExtension.cpp.obj"
+"C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderLoggingExtension\Default.rc2.res"
+/OUT:"C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderLoggingExtension\UnrealEditor-RiderLoggingExtension-0004-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_RiderLoggingExtension
