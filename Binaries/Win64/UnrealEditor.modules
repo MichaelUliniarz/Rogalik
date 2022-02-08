@@ -1,0 +1,8 @@
+{
+	"BuildId": "16433597",
+	"Modules": 
+	{
+		"Rogalik": "UnrealEditor-Rogalik.dll",
+		"Tests": "UnrealEditor-Tests.dll"
+	}
+}

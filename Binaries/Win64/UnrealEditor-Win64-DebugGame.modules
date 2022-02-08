@@ -1,0 +1,8 @@
+{
+	"BuildId": "16433597",
+	"Modules": 
+	{
+		"Rogalik": "UnrealEditor-Rogalik-0003-Win64-DebugGame.dll",
+		"Tests": "UnrealEditor-Tests-9995-Win64-DebugGame.dll"
+	}
+}
