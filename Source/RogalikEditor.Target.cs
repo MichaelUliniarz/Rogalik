@@ -9,6 +9,6 @@ public class RogalikEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "Rogalik" } );
+		ExtraModuleNames.AddRange( new string[] { "Rogalik", "Tests" } );
 	}
 }
