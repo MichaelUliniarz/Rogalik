@@ -1,28 +1,28 @@
-C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RiderGameControlExtension\Private\RiderGameControlExtension.cpp
+"F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RiderGameControlExtension\Private\RiderGameControlExtension.cpp"
 /I .
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RiderGameControlExtension\Private
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\src
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\thirdparty
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RiderGameControlExtension\Private"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\src"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\thirdparty"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RiderLink\Public
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\Library"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RiderLink\Public\Model\RdEditorProtocol"
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RiderLink\Public"
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\HeadMountedDisplay
 /I Runtime\HeadMountedDisplay\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality
@@ -255,7 +255,7 @@ C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RiderGam
 /I Developer\DeveloperToolSettings\Public
 /I Runtime\Windows
 /I Runtime\Windows\XAudio2\Public
-/I C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RiderGameControlExtension\Public
+/I "F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Source\RiderGameControlExtension\Public"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -267,14 +267,14 @@ C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Source\RiderGam
 /I ThirdParty\PhysX3\PhysX_3.4\Include\common
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControlExtension\Definitions.h"
-/Fo"C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControlExtension\RiderGameControlExtension.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+/FI"F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControlExtension\Definitions.h"
+/Fo"F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderGameControlExtension\RiderGameControlExtension.cpp.obj"
 /Zc:inline
 /nologo
 /Oi

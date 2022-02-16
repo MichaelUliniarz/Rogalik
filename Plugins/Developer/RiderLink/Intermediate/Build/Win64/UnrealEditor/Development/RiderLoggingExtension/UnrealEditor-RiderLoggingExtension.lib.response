@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-RiderLoggingExtension.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLoggingExtension\Module.RiderLoggingExtension.cpp.obj"
-"C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLoggingExtension\Default.rc2.res"
-/OUT:"C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLoggingExtension\UnrealEditor-RiderLoggingExtension.lib"
+"F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLoggingExtension\Module.RiderLoggingExtension.cpp.obj"
+"F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLoggingExtension\Default.rc2.res"
+/OUT:"F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLoggingExtension\UnrealEditor-RiderLoggingExtension.lib"
 /INCLUDE:IMPLEMENT_MODULE_RiderLoggingExtension

@@ -1,1 +1,1 @@
-C:\Users\kwali\source\Unreal\Rogalik\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h
+F:\gran unreal 3 5.0 - 2\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h
